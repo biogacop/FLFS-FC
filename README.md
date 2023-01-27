@@ -1,7 +1,7 @@
 # FLFS-FC
 
 Supplementary information related to publication ["Flux Coupling and the Objective Functions’ Length in EFMs"](https://www.mdpi.com/2218-1989/10/12/489)
- in Metabolites.
+ published in Metabolites.
 
 
 The necessary notebooks required to execute this algorithm are included in the 'notebooks' folder.
